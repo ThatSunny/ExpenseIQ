@@ -30,11 +30,11 @@ function Header(){
 
                 {/* Link to connect to Dashboard page */}
                 <Link href="dashboard">
-                    <Button variant="outline" className="rounded-full font-bold hover:bg-gray-100">Dashboard</Button>
+                    <Button variant="outline" className="rounded-full font-bold hover:bg-[#d7e9c9]">Dashboard</Button>
                 </Link>
                 {/* Link to connect to Get Started page */}
                 <Link href="get-started">
-                    <Button className="rounded-md font-bold text-[#d5e6b4] bg-[#2d2d2d] hover:bg-[#1c1b1b]">Get Started</Button>
+                    <Button className="rounded-md font-bold text-[#c1ddb2] bg-[#4b4b4b] hover:bg-[#2f2e2e] ">Get Started</Button>
                 </Link>
 
             </div> )}
