@@ -10,7 +10,7 @@ function Hero(){
                 titleComponent={
                 <>
                     <h1 className="text-4xl font-semibold text-black dark:text-white">
-                    Your new <span className="font-bold">AI-Driven*</span><br />
+                    Your new personal <span className="font-bold">AI-Driven*</span><br />
                     <span className="text-4xl md:text-[6rem] ] text-[#bbd6ae] font-bold mt-1 leading-none">
                     Finance Advisor
                     </span>
