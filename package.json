@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "db:push": "drizzle-kit push"
   },
   "dependencies": {
     "@clerk/nextjs": "^5.0.0-beta.46",
@@ -14,6 +15,7 @@
     "@radix-ui/react-slot": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
     "drizzle-orm": "^0.33.0",
     "framer-motion": "^11.9.0",
     "lucide-react": "^0.446.0",
